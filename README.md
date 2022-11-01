@@ -27,8 +27,6 @@ The above instructions were tested on Ubuntu 18.04/20.04 with CUDA 10.2/11.1.
 
 ## Training
 
-**Note.** All following commands should be ran within the `sdf` directory.
-
 ### Download sample data
 
 To download a cool armadillo:
